@@ -1,0 +1,7 @@
+This is a RISC type microcontroller with the following features:
+14 bit - instruction opcode
+4-bit comparator
+8-bit ALU instructions
+8-bit UART Reciever and transmitter
+Timer and clock divider
+Watchdog timer
